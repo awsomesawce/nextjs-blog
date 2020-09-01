@@ -27,4 +27,6 @@ I then found this suggestion right off the Next.js website, and they had a templ
 
 ## This Git repo was created by npm.
 
-Testing one two.
+Changes are being tracked both in VSC and GitHub Desktop and of course GitHub.com
+
+I'm going to spruce up my knowledge of Javascript a bit before I go any further with this Next.js project.
