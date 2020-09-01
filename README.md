@@ -16,7 +16,7 @@ whether or not I want to terminate batch job, and I type "y" and enter.  At that
 
 So...
 
-**Go to terminal and type ``` ctrl + c ``` to terminate the server.
+#### Go to terminal and type ``` ctrl + c ``` to terminate the server.
 
 Also, every time it compiles again, the server also checks the code and makes sure the syntax is correct.
 I typed in a standard "&lt;br&gt;" for a line break, and it doesn't work because I didn't have an end tag.  So I had to write in the ```<br />```
