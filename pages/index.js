@@ -4,18 +4,23 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>This app is running a makeshift dev server</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Learn <a href="http://localhost:3000">Next.js!</a>
         </h1>
 
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          ohh kayyy.  So this is how I edit this stuff?
         </p>
+        <p>
+          This is being hosted on a local server and using Javascript to display the HTML code.<br />
+          This is not real HTML.  It looks like HTML, but that's what they want you to believe.
+        </p>
+        <p>What is the advantage of doing it this way?  I don't know.</p>
 
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
